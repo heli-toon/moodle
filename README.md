@@ -44,5 +44,5 @@ Moodle is provided freely as open source software, under version 3 of the GNU Ge
 [8]: https://moodleassociation.org/
 [9]: https://download.moodle.org
 [10]: https://moodle.com/partners
-[11]: https://moodle.com/cloud
+[11]: https://moodle.com/products/moodlecloud/
 [12]: https://moodledev.io/general/license
